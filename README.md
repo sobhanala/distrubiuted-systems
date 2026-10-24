@@ -1,4 +1,4 @@
-# Distributed Systems â€” Assignment Materials
+# Distributed Systems — Assignment Materials
 
 This repository contains the assignment document at [`Project2/Project_2.pdf`](Project2/Project_2.pdf).
 
